@@ -24,19 +24,19 @@
             ],
             "styles": [
 
-              "/home/alphawizz/Desktop/smarthr-master/node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "/home/alphawizz/Desktop/smarthr-master/node_modules/font-awesome/css/font-awesome.css",
-              "/home/alphawizz/Desktop/smarthr-master/node_modules/fullcalendar/dist/fullcalendar.min.css",
-              "/home/alphawizz/Desktop/smarthr-master/node_modules/morris.js/morris.css",
-              "/home/alphawizz/Desktop/smarthr-master/src/styles.css"
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "./node_modules/font-awesome/css/font-awesome.css",
+              "./node_modules/fullcalendar/dist/fullcalendar.min.css",
+              "./node_modules/morris.js/morris.css",
+              "src/styles.css"
             ],
             "scripts": [
-              "/home/alphawizz/Desktop/smarthr-master/node_modules/jquery/dist/jquery.min.js",
-              "/home/alphawizz/Desktop/smarthr-master/node_modules/moment/min/moment.min.js",
-              "/home/alphawizz/Desktop/smarthr-master/node_modules/bootstrap/dist/js/bootstrap.min.js",
-              "/home/alphawizz/Desktop/smarthr-master/node_modules/fullcalendar/dist/fullcalendar.min.js",
-              "/home/alphawizz/Desktop/smarthr-master/node_modules/raphael/raphael.js",
-              "/home/alphawizz/Desktop/smarthr-master/node_modules/morris.js/morris.js"
+              "./node_modules/jquery/dist/jquery.min.js",
+              "./node_modules/moment/min/moment.min.js",
+              "./node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "./node_modules/fullcalendar/dist/fullcalendar.min.js",
+              "./node_modules/raphael/raphael.js",
+              "./node_modules/morris.js/morris.js"
             ]
           },
           "configurations": {
